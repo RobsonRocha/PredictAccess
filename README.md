@@ -2,7 +2,7 @@
 
 ## Motivação
 
-Projeto criado para mostrar a previsão de acesso ao sistema de uma empresa fictícia, com o intuito de mostrar como usar [PyCaret] (https://pycaret.org/) na previsão de séries temporais.
+Projeto criado para mostrar a previsão de acesso ao sistema de uma empresa fictícia, com o intuito de mostrar como usar [PyCaret](https://pycaret.org/) na previsão de séries temporais.
 
 ## Linguagem
 
